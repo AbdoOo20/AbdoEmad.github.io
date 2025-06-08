@@ -19,8 +19,8 @@ locale                   : "en-US"
 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hussein Adel"
-description              : "Full Stack Developer                     Malware Analyst"
+name                     : "Abdelrahman Emad"
+description              : "Full Stack .NET Developer                     Flutter Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,33 +102,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hussein Adel"
+  name             : "Abdelrahman Emad"
   avatar           : /assets/images/site_data/d.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack .Net Developer<be><br>---------------  And  ----------------<be><br>Malware Analyst"
-  location         : "Hellwan - Cairo - Egypt"
-  email            :
+  bio              : "Full Stack .Net Developer<be><br>---------------  And  ----------------<be><br>Flutter Developer"
+  location         : "Cairo - Egypt"
+  email            : "abdelrahman.emadeldin.ragab@gmail.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/hussein-adel-328b67347"
+      url: "https://www.linkedin.com/in/abdoemad/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/HusseinAdel7"
+      url: "https://github.com/AbdoOo20"
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp-square"
-      url: "https://wa.me/+201098018628"
+      url: "https://wa.me/+201018754602"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:husseinadelhhh@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/7usseinadel7"
+      url: "mailto:abdelrahman.emadeldin.ragab@gmail.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/7usseinadel7"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/hussein.adel.75641"
+      url: "https://www.facebook.com/abdo.emad.252832"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/7ussien.3del/"
+      url: "https://www.instagram.com/abdo_emad208"
 
 # Site Footer
 footer:
