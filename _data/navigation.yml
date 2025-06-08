@@ -5,20 +5,11 @@ main:
      url: /categories/#Full_Stack_Projects
    - title: "Back End Projects"
      url: /categories/#Back_End_Projects
-   - title: "Front End Projects"
-     url: /categories/#Front_End_Projects
-   - title: "Desktop Applications"
-     url: /categories/#Desktop_Applications
-   - title: ".Net Articles"
-     url: /categories/#DotNet_Articles
-   - title: "Various Projects"
-     url: /categories/#Various_Projects
-
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-   #- title: "Quick-Start Guide"
-    # url: https://google.com
+   # - title: "Front End Projects"
+   #   url: /categories/#Front_End_Projects
+   - title: "Flutter Projects"
+     url: /categories/#Flutter_Projects
+   - title: "SQL Projects"
+     url: /categories/#SQL_Projects
+   # - title: ".Net Articles"
+   #   url: /categories/#DotNet_Articles
