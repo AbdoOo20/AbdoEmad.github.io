@@ -9,11 +9,8 @@ categories:
 toc: true
 ---
 
-# <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img src="https://github.com/user-attachments/assets/cfda7e5c-9cce-4fab-a920-57a55fbc93cf" alt="Salam App Logo" width="100">
-<h1>🌟 Salam</h1>
-</div>
-<p> The Salam Wristband is an innovative wearable device that makes connecting with others as simple as a touch. Just tap your Salam wristband to a smartphone to instantly share your contact information and social media profiles — no apps or typing required! </p>
+# 🌟 Salam
+#### The Salam Wristband is an innovative wearable device that makes connecting with others as simple as a touch. Just tap your Salam wristband to a smartphone to instantly share your contact information and social media profiles — no apps or typing required! 
 
 ## 🚀 Key Features
 
@@ -53,13 +50,11 @@ To run this project, make sure you install the following packages (already defin
 
 ## 📱 Download the App
 
-<div>
-  IOS: https://apps.apple.com/eg/app/salam/id6449319780
-</div>
-<br/>
-<div>
-  Android: https://play.google.com/store/apps/details?id=com.sallam.tech
-</div>
+
+
+> ### [IOS](https://youtu.be/Ue0AiHNg_G4)
+> ### [Android](https://github.com/HusseinAdel7/E-Commerce_ASP.NET-Core-MVC)
+
 
 ## 📷 Screenshots
 
