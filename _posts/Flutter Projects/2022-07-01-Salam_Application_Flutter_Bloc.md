@@ -52,8 +52,8 @@ To run this project, make sure you install the following packages (already defin
 
 
 
-> ### [IOS](https://youtu.be/Ue0AiHNg_G4)
-> ### [Android](https://github.com/HusseinAdel7/E-Commerce_ASP.NET-Core-MVC)
+> ### [IOS](https://apps.apple.com/eg/app/salam/id6449319780)
+> ### [Android](https://play.google.com/store/apps/details?id=com.sallam.tech)
 
 
 ## 📷 Screenshots
