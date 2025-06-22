@@ -2,7 +2,7 @@
 title: Salam (NFC Application)
 classes: wide
 header:
-  teaser: https://www.bigfootdigital.co.uk/wp-content/uploads/2020/07/image-optimisation-scaled.jpg
+  teaser: https://github.com/user-attachments/assets/3f600bc6-6e80-4c6e-9a54-4a8d812279a5
 ribbon: MidnightBlue
 categories:
   - Flutter_Projects
