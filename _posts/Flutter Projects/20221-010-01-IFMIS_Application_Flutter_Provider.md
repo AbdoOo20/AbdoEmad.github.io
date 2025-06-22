@@ -52,52 +52,73 @@ Skill Tests: Earn badges by completing challenges.
 
 ## 📦 Required Packages
 
-To run this project, make sure you install the following packages (already defined in `pubspec.yaml`):
+All dependencies are already defined in `pubspec.yaml`:
 
-🔥 Firebase Services
-    firebase_core ^2.13.1	Firebase core functionality
-    firebase_auth ^4.6.2	User authentication
-    cloud_firestore ^4.8.0	Cloud database
-    firebase_storage ^11.2.2	File storage
-    firebase_messaging ^14.6.2	Push notifications
-🛠 Core Utilities
-    provider ^6.0.4	State management
-    shared_preferences ^2.0.15	Local storage
-    http ^0.13.5	API calls
-    dio ^5.2.0+1	Advanced HTTP requests
-    intl ^0.17.0	Internationalization
-🖼 Media & Files
-    image_picker ^0.8.6	Image selection
-    file_picker ^5.2.6	File selection
-    video_player ^2.4.7	Video playback
-    gallery_saver ^2.1.0	Save media to gallery
-🔗 Social & Auth
-    google_sign_in ^6.1.4	Google authentication
-    flutter_facebook_auth ^5.0.7	Facebook login
-🎨 UI Components
-    carousel_slider ^4.1.1	Image carousels
-    flutter_rating_bar ^4.0.1	Star ratings
-    percent_indicator ^4.2.2	Progress indicators
-    flip_card ^0.6.0	Card flipping animations
-    marquee ^2.2.3	Scrolling text
-📱 Device Features
-    url_launcher ^6.1.6	Open external links
-    share_plus ^6.3.0	Content sharing
-    open_file ^3.3.1	Open local files
-    permission_handler ^10.2.0	Runtime permissions
-🚀 Special Features
-    youtube_player_flutter ^8.1.1	YouTube integration
-    flutter_local_notifications ^14.1.1	Local notifications
-    screenshot ^2.1.0	Capture screenshots
-    qr_flutter	QR code generation
+### 🔥 Firebase Services
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `firebase_core` | ^2.13.1 | Firebase core functionality |
+| `firebase_auth` | ^4.6.2 | User authentication |
+| `cloud_firestore` | ^4.8.0 | Cloud database |
+| `firebase_storage` | ^11.2.2 | File storage |
+| `firebase_messaging` | ^14.6.2 | Push notifications |
+
+### 🛠 Core Utilities
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `provider` | ^6.0.4 | State management |
+| `shared_preferences` | ^2.0.15 | Local storage |
+| `http` | ^0.13.5 | API calls |
+| `dio` | ^5.2.0+1 | Advanced HTTP requests |
+| `intl` | ^0.17.0 | Internationalization |
+
+### 🖼 Media & Files
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `image_picker` | ^0.8.6 | Image selection |
+| `file_picker` | ^5.2.6 | File selection |
+| `video_player` | ^2.4.7 | Video playback |
+| `gallery_saver` | ^2.1.0 | Save media to gallery |
+
+### 🔗 Social & Auth
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `google_sign_in` | ^6.1.4 | Google authentication |
+| `flutter_facebook_auth` | ^5.0.7 | Facebook login |
+
+### 🎨 UI Components
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `carousel_slider` | ^4.1.1 | Image carousels |
+| `flutter_rating_bar` | ^4.0.1 | Star ratings |
+| `percent_indicator` | ^4.2.2 | Progress indicators |
+| `flip_card` | ^0.6.0 | Card flipping animations |
+| `marquee` | ^2.2.3 | Scrolling text |
+
+### 📱 Device Features
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `url_launcher` | ^6.1.6 | Open external links |
+| `share_plus` | ^6.3.0 | Content sharing |
+| `open_file` | ^3.3.1 | Open local files |
+| `permission_handler` | ^10.2.0 | Runtime permissions |
+
+### 🚀 Special Features
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `youtube_player_flutter` | ^8.1.1 | YouTube integration |
+| `flutter_local_notifications` | ^14.1.1 | Local notifications |
+| `screenshot` | ^2.1.0 | Capture screenshots |
+| `qr_flutter` | - | QR code generation |
 
 ## 📱 Download the App
 
 > ### [IOS](https://apps.apple.com/us/app/ifmis/id1670802361)
 > ### [Android](https://play.google.com/store/apps/details?id=dev.ifmis.news)
 
-### </> Source Code
+### 💻 Source Code
 > ### [URL](https://github.com/AbdoOo20/IFMIS)
+
 ## 📷 Screenshots
 
 <div style="display: flex; gap: 10px;">
