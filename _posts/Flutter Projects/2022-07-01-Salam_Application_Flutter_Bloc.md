@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/user-attachments/assets/3f600bc6-6e80-4c6e-9a54-4a8d812279a5
 ribbon: MidnightBlue
 categories:
-  - Flutter_Projects
+  - Flutter_Projects 
 toc: true
 ---
 
