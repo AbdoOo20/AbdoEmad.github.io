@@ -72,7 +72,7 @@ All dependencies are already defined in `pubspec.yaml`:
 | `dio` | ^5.2.0+1 | Advanced HTTP requests |
 | `intl` | ^0.17.0 | Internationalization |
 
-### 🖼 Media & Files
+### 🖼 Media & Files 
 | Package | Version | Purpose |
 |---------|---------|---------|
 | `image_picker` | ^0.8.6 | Image selection |
