@@ -50,8 +50,6 @@ To run this project, make sure you install the following packages (already defin
 
 ## 📱 Download the App
 
-
-
 > ### [IOS](https://apps.apple.com/eg/app/salam/id6449319780)
 > ### [Android](https://play.google.com/store/apps/details?id=com.sallam.tech)
 
@@ -60,14 +58,19 @@ To run this project, make sure you install the following packages (already defin
 
 ## 📷 Screenshots
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/db263179-0e5d-4456-a7a6-85e53ca6072e" alt="Screen 1" width="150" />
-  <img src="https://github.com/user-attachments/assets/c07dc75d-7312-45ec-baf4-8fdbedb2fc35" alt="Screen 2" width="150" />
-  <img src="https://github.com/user-attachments/assets/4d26a0ad-179d-4e93-b366-f2904d737cfe" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/38a64db4-0812-41d4-9f93-8839646b0336" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/bd900db8-39e9-49b8-9d40-60d93b166fcf" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/9d80c2f4-41cf-4572-af75-0ab0594cee2e" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/2655adcb-36e6-476b-b8af-8aeca7f69e56" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/c68ae6f9-2390-4b17-8bef-d9e643981247" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/c2d48ede-6592-42cc-a87f-99270530afa1" alt="Screen 3" width="150" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/db263179-0e5d-4456-a7a6-85e53ca6072e" alt="Screen 1" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c07dc75d-7312-45ec-baf4-8fdbedb2fc35" alt="Screen 2" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4d26a0ad-179d-4e93-b366-f2904d737cfe" alt="Screen 3" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/38a64db4-0812-41d4-9f93-8839646b0336" alt="Screen 4" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bd900db8-39e9-49b8-9d40-60d93b166fcf" alt="Screen 5" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9d80c2f4-41cf-4572-af75-0ab0594cee2e" alt="Screen 6" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2655adcb-36e6-476b-b8af-8aeca7f69e56" alt="Screen 7" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c68ae6f9-2390-4b17-8bef-d9e643981247" alt="Screen 8" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c2d48ede-6592-42cc-a87f-99270530afa1" alt="Screen 9" width="150"/></td>
+    <td></td>
+  </tr>
+</table>
