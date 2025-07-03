@@ -73,7 +73,7 @@ Attractive, responsive design with engaging animations for an enhanced user expe
 
 ### 💻 Source Code
 > ### [URL For Sulah App](https://github.com/AbdoOo20/Sulah)
-> > ### [URL For Sulah Store](https://github.com/AbdoOo20/Sulah)
+> ### [URL For Sulah Store](https://github.com/AbdoOo20/Sulah-Store)
 
 ## 📷 Screenshots
 
