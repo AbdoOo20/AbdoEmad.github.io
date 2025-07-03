@@ -87,17 +87,15 @@ All dependencies are already defined in `pubspec.yaml`:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d93d880c-41fa-44cb-877f-d2d42f097f87" alt="Screen 1" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/208beb8c-7669-4f9d-9dca-3a899a69b598" alt="Screen 2" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4b9f4b42-4222-42df-8e96-67a26483f453" alt="Screen 3" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/adb715cd-6ee9-4ef4-8f62-ba7cef8a8673" alt="Screen 4" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/69f15c0b-f9f7-4f0d-944b-e16096ed0289" alt="Screen 5" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1aeb18b6-8a39-47ff-a338-9156b7c119a7" alt="Screen 1" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/579d3ad6-9cd6-428a-b65d-b7f0436c7abb" alt="Screen 2" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f98eaa30-b25b-4253-92d7-a1a238b62bb2" alt="Screen 3" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7531b964-5c41-4e12-ba9d-91929d303e3b" alt="Screen 4" width="150"/></td> 
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cb670d18-a72c-4f8f-906e-4b04a6b22605" alt="Screen 6" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/00685caf-b6d3-4516-8920-a3f8e40a04e3" alt="Screen 7" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2ce63265-9cc4-484d-92c5-f04eb7fcc69a" alt="Screen 8" width="150"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/056ab6da-187d-4d96-8ba3-98c4e7f57d62" alt="Screen 5" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0eca6a17-c46c-44c5-9efe-f42a7dcb0ad3" alt="Screen 6" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5c81371e-46dc-4e27-ae4c-1252ed12b003" alt="Screen 7" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/390d4729-d78f-40c0-8894-00a680d7f24c" alt="Screen 8" width="150"/></td>
   </tr>
 </table>
