@@ -119,6 +119,3 @@ Built with **Flutter**, the app works seamlessly on Android and iOS devices.
     <td><img src="https://github.com/user-attachments/assets/6bea3fe1-9057-4376-b99f-1157d95689ee" alt="Screen 9" width="150" /></td>
   </tr>
 </table>
-
-علشان تحمل كل الـ dependencies بدون مشاكل.  
-✨ جاهز تبدأ الكود على طول
