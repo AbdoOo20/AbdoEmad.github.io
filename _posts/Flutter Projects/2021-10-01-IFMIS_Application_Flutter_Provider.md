@@ -1,97 +1,109 @@
----
-title: SULAH (E-Commerce Application)
+title: IFMIS - Sports & Competitions App
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/d04fdeab-3aa0-4528-a326-51431b41c6f8
+  teaser: https://github.com/user-attachments/assets/f381290f-25ae-4e31-bb73-bb697993fef8
 ribbon: MidnightBlue
 categories:
   - Flutter_Projects
 toc: true
 ---
 
-# 🛒 SULAH - Smart E-commerce App
-
-**SULAH** is a **smart e-commerce application** built with **Flutter**, designed to deliver a complete, secure, and seamless shopping experience.  
-Users can browse products, place online orders, make secure payments, and track their orders in real-time — all within a modern, user-friendly, multi-language interface.
-
+# 📱 IFMIS - Sports & Competitions App
+#### IFMIS is a Flutter-based mobile application designed to manage sports events and competitions seamlessly. It connects users with the latest sports news, live updates, and event management tools, powered by Firebase and a custom API.
 
 ## ✨ Key Features
 
-✅ **Product Catalog**  
-Browse a wide range of products with high-quality images and detailed descriptions.
+🏆 Sports Coverage
 
-✅ **Smart Search & Filters**  
-Quickly find what you’re looking for with advanced search and filtering options.
+Live Sports News: Real-time updates on matches, transfers, and events.
 
-✅ **Secure Online Ordering**  
-Add items to your cart, place orders, and complete payments safely.
+Match Schedules: Never miss a game with personalized calendars.
 
-✅ **Real-time Order Tracking**  
-Track your order status and delivery location live on the map.
+🎯 Interactive Competitions
 
-✅ **User Accounts & Profiles**  
-Manage your personal information, addresses, and payment methods easily.
+Quizzes & Trivia: Test your sports knowledge with dynamic challenges.
 
-✅ **Push Notifications**  
-Get instant updates about your order status, offers, and promotions.
+Virtual Tournaments: Compete with fans worldwide.
 
-✅ **Multi-language Support**  
-Switch between languages for a personalized shopping experience.
+💬 Social Hub
 
-✅ **Modern UI & Smooth Animations**  
-Attractive, responsive design with engaging animations for an enhanced user experience.
+1-on-1 Chats: Connect privately with other fans.
 
+Group Discussions: Join themed communities (e.g., clubs, leagues).
+
+🛒 E-Commerce
+
+Player Transfers Marketplace: Buy/sell player rights (fantasy or real).
+
+Merchandise Store: Official jerseys, accessories, and more.
+
+🎓 Sports Academy
+
+Training Courses: Interactive lessons with quizzes.
+
+Skill Tests: Earn badges by completing challenges.
 
 ## ⚙️ Technologies Used
 
-- **Flutter** — Cross-platform mobile app development.
-- **Provider** / **GetIt** — State management & dependency injection.
-- **Dio** — Advanced HTTP client for API calls.
-- **Google Maps & Geolocation** — Real-time location tracking.
-- **Shared Preferences** — Local data storage.
-- **Firebase** *(optional)* — Notifications and backend services.
+- **Flutter** – Cross-platform UI toolkit 
+- **Firebase** – Backend services (Authentication, Firestore, Storage, Messaging) - Custom API
+- **Provider** – State management architecture
 
-## 📦 Main Packages
+## 📦 Required Packages
 
-| 📂 Category          | 📦 Package                | Purpose                                |
-|----------------------|---------------------------|----------------------------------------|
-| 🛠 Core              | `provider` / `get_it`     | State management, dependency injection |
-| 🌐 Networking        | `dio`                     | API calls                               |
-| 🗺️ Maps & Location   | `google_maps_place_picker_mb`, `geolocator`, `geocoding` | Location services                       |
-| 💾 Storage           | `shared_preferences`      | Local storage                          |
-| 🔔 Notifications     | `firebase_messaging`, `flutter_local_notifications` | Push & local notifications             |
-| 🎨 UI/UX             | `carousel_slider`, `smooth_page_indicator`, `lottie`, `shimmer` | Animations & sliders                    |
-| 📸 Media             | `image_picker`, `cached_network_image` | Media handling                          |
-| 🌍 Localization      | `easy_localization`       | Multi-language support                 |
-| 🔑 Permissions       | `permission_handler`      | Runtime permissions                    |
-| 🔗 Others            | `url_launcher`, `logger`  | External links, logging                |
+All dependencies are already defined in pubspec.yaml:
+
+| 📂 Section             | 📦 Package               | 🏷️ Version | 🎯 Purpose                      |
+|------------------------|--------------------------|------------|---------------------------------|
+| 🔥 Firebase Services   | firebase_core          | ^2.13.1    | Firebase core functionality     |
+|                        | firebase_auth          | ^4.6.2     | User authentication             |
+|                        | cloud_firestore        | ^4.8.0     | Cloud database                  |
+|                        | firebase_storage       | ^11.2.2    | File storage                     |
+|                        | firebase_messaging     | ^14.6.2    | Push notifications              |
+| 🛠 Core Utilities      | provider               | ^6.0.4     | State management                |
+|                        | shared_preferences     | ^2.0.15    | Local storage                   |
+|                        | http                   | ^0.13.5    | API calls                       |
+|                        | dio                    | ^5.2.0+1   | Advanced HTTP requests          |
+|                        | intl                   | ^0.17.0    | Internationalization            |
+| 🖼 Media & Files       | image_picker           | ^0.8.6     | Image selection                 |
+|                        | file_picker            | ^5.2.6     | File selection                  |
+|                        | video_player           | ^2.4.7     | Video playback                  |
+|                        | gallery_saver          | ^2.1.0     | Save media to gallery           |
+| 🔗 Social & Auth       | google_sign_in         | ^6.1.4     | Google authentication           |
+|                        | flutter_facebook_auth  | ^5.0.7     | Facebook login                  |
+| 🎨 UI Components       | carousel_slider        | ^4.1.1     | Image carousels                 |
+|                        | flutter_rating_bar     | ^4.0.1     | Star ratings                    |
+|                        | percent_indicator      | ^4.2.2     | Progress indicators             |
+|                        | flip_card              | ^0.6.0     | Card flipping animations        |
+|                        | marquee                | ^2.2.3     | Scrolling text                  |
+| 📱 Device Features     | url_launcher           | ^6.1.6     | Open external links             |
+|                        | share_plus             | ^6.3.0     | Content sharing                 |
+|                        | open_file              | ^3.3.1     | Open local files                |
+|                        | permission_handler     | ^10.2.0    | Runtime permissions             |
+| 🚀 Special Features    | youtube_player_flutter | ^8.1.1     | YouTube integration             |
+|                        | flutter_local_notifications | ^14.1.1 | Local notifications             |
+|                        | screenshot             | ^2.1.0     | Capture screenshots             |
+|                        | qr_flutter             | -          | QR code generation              |
 
 ## 📱 Download the App
 
-- **[iOS](https://apps.apple.com/sa/app/%D8%B3%D9%8A%D9%88%D9%84%D8%A9/id6478117421)**
-- **[Android](https://play.google.com/store/apps/details?id=com.users.sulahapp)**
+> ### [IOS](https://apps.apple.com/us/app/ifmis/id1670802361)
+> ### [Android](https://play.google.com/store/apps/details?id=dev.ifmis.news)
 
 ### 💻 Source Code
-> ### [URL For Sulah App](https://github.com/AbdoOo20/Sulah)
-> > ### [URL For Sulah Store](https://github.com/AbdoOo20/Sulah)
+> ### [URL](https://github.com/AbdoOo20/IFMIS)
 
 ## 📷 Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c257db0f-2acc-474f-b8ee-83892d80d3c7" alt="Screen 1" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0e3f03c2-8d68-4008-9f62-6ead463ec81c" alt="Screen 2" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0592c7f0-4fac-4386-9081-f4e365bacdfd" alt="Screen 3" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f8c2e94b-e24a-4eac-b62b-3b42fe9e1d2d" alt="Screen 4" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0df7d334-113c-41c1-b753-9a603e8657b1" alt="Screen 5" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4e08a204-1534-4b4d-81be-e8b9870830c1" alt="Screen 6" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/33bad9e8-0fb2-4202-b781-d0ff58df6537" alt="Screen 7" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a220be27-93f6-4219-9f63-e8975b8891e9" alt="Screen 8" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a21f1017-475f-47be-bf74-569abb551211" alt="Screen 9" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d55e7f5a-1cae-4bef-a186-ed48d50a1ff3" alt="Screen 10" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5145bbd7-4f15-4f9b-98ab-28948557de11" alt="Screen 10" width="150"/></td>
-    <td></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/41099639-f3a9-4694-90f3-814794e2e32b" alt="Screen 1" width="150" />
+  <img src="https://github.com/user-attachments/assets/81bfd7f5-1051-47d2-9126-5f92acfae510" alt="Screen 2" width="150" />
+  <img src="https://github.com/user-attachments/assets/214b55ec-37f3-4b8e-a22e-1f77a0ac5fcf" alt="Screen 3" width="150" />
+  <img src="https://github.com/user-attachments/assets/bb9346b7-ec7d-4149-b651-223aac0abf18" alt="Screen 4" width="150" />
+  <img src="https://github.com/user-attachments/assets/4a484307-9867-4f52-ba92-52c4e1932e14" alt="Screen 5" width="150" />
+  <img src="https://github.com/user-attachments/assets/a5018edd-13a7-40d8-869a-e78a0bb09d00" alt="Screen 6" width="150" />
+  <img src="https://github.com/user-attachments/assets/314092c2-4673-4d70-9714-67a4a9c63f9b" alt="Screen 7" width="150" />
+  <img src="https://github.com/user-attachments/assets/1adc1986-af27-4ed7-a4e6-3abd50e2566b" alt="Screen 8" width="150" />
+  <img src="https://github.com/user-attachments/assets/36d988bb-710c-4894-a048-d2e83b771089" alt="Screen 9" width="150" />
+  <img src="https://github.com/user-attachments/assets/7db246e2-bf5f-494a-bcd0-cd506d62193f" alt="Screen 10" width="150" />
+</div>
