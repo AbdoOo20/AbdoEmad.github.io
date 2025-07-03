@@ -96,15 +96,21 @@ All dependencies are already defined in pubspec.yaml:
 
 ## 📷 Screenshots
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/41099639-f3a9-4694-90f3-814794e2e32b" alt="Screen 1" width="150" />
-  <img src="https://github.com/user-attachments/assets/81bfd7f5-1051-47d2-9126-5f92acfae510" alt="Screen 2" width="150" />
-  <img src="https://github.com/user-attachments/assets/214b55ec-37f3-4b8e-a22e-1f77a0ac5fcf" alt="Screen 3" width="150" />
-  <img src="https://github.com/user-attachments/assets/bb9346b7-ec7d-4149-b651-223aac0abf18" alt="Screen 4" width="150" />
-  <img src="https://github.com/user-attachments/assets/4a484307-9867-4f52-ba92-52c4e1932e14" alt="Screen 5" width="150" />
-  <img src="https://github.com/user-attachments/assets/a5018edd-13a7-40d8-869a-e78a0bb09d00" alt="Screen 6" width="150" />
-  <img src="https://github.com/user-attachments/assets/314092c2-4673-4d70-9714-67a4a9c63f9b" alt="Screen 7" width="150" />
-  <img src="https://github.com/user-attachments/assets/1adc1986-af27-4ed7-a4e6-3abd50e2566b" alt="Screen 8" width="150" />
-  <img src="https://github.com/user-attachments/assets/36d988bb-710c-4894-a048-d2e83b771089" alt="Screen 9" width="150" />
-  <img src="https://github.com/user-attachments/assets/7db246e2-bf5f-494a-bcd0-cd506d62193f" alt="Screen 10" width="150" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/41099639-f3a9-4694-90f3-814794e2e32b" alt="Screen 1" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/81bfd7f5-1051-47d2-9126-5f92acfae510" alt="Screen 2" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/214b55ec-37f3-4b8e-a22e-1f77a0ac5fcf" alt="Screen 3" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/bb9346b7-ec7d-4149-b651-223aac0abf18" alt="Screen 4" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/4a484307-9867-4f52-ba92-52c4e1932e14" alt="Screen 5" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a5018edd-13a7-40d8-869a-e78a0bb09d00" alt="Screen 6" width="150" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/314092c2-4673-4d70-9714-67a4a9c63f9b" alt="Screen 7" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1adc1986-af27-4ed7-a4e6-3abd50e2566b" alt="Screen 8" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/36d988bb-710c-4894-a048-d2e83b771089" alt="Screen 9" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/7db246e2-bf5f-494a-bcd0-cd506d62193f" alt="Screen 10" width="150" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
