@@ -70,6 +70,7 @@ App is a comprehensive Flutter application that enables teachers to easily creat
     <td><img src="https://github.com/user-attachments/assets/3558468f-1e89-4b5d-b675-134ad562abfe" alt="Screen 5" width="150" /></td>
     <td><img src="https://github.com/user-attachments/assets/074db286-5469-4721-8c58-086252ef2230" alt="Screen 6" width="150" /></td>
     <td><img src="https://github.com/user-attachments/assets/ab85b9a9-5c72-4258-a7f5-e90a0a1ed94f" alt="Screen 7" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6a97c5a0-683c-4991-b072-2dc33f5e4b8f" alt="Screen 8" width="150" /></td>
   </tr>
 </table>
 ---
