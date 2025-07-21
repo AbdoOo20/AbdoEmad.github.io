@@ -9,42 +9,42 @@ categories:
 toc: true
 ---
 
-# 📱 Ejaz - Recruitment & Job Matching App
+# 👷‍♂️💼 Ejaz - Recruitment & Job Matching App
 #### Ejaz is a Flutter-based mobile application designed to simplify the recruitment process. It connects job seekers with employers seamlessly, offering smart job matching, instant notifications, and powerful communication tools.
 
-## ✨ Key Features
+## Key Features
 
-🎯 **Smart Job Matching**  
-Personalized job recommendations based on your profile.
+**Smart Job Matching**  
+ Personalized job recommendations based on your profile.
 
-📬 **Instant Notifications**  
-Stay updated with new job posts, application status, and employer messages.
+**Instant Notifications**  
+ Stay updated with new job posts, application status, and employer messages.
 
-💬 **Direct Communication**  
-Chat directly with recruiters within the app.
+**Direct Communication**  
+ Chat directly with recruiters within the app.
 
-📄 **Profile & CV Management**  
-Easily create and update your professional profile and CV.
+**Profile & CV Management**  
+ Easily create and update your professional profile and CV.
 
-📅 **Application Tracker**  
-Track your application history and interview schedules.
+**Application Tracker**  
+ Track your application history and interview schedules.
 
-🔒 **Secure & Private**  
-Your data stays safe with advanced security measures.
+**Secure & Private**  
+ Your data stays safe with advanced security measures.
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Flutter** – Cross-platform UI toolkit  
 - **Firebase** – Authentication, Cloud Firestore, Storage, Push Notifications  
 - **Provider** – State management
 
-## 📦 Required Packages
+## Required Packages
 
 All dependencies are already defined in `pubspec.yaml`:
 
-| 📂 Section             | 📦 Package                     | 🏷️ Version | 🎯 Purpose                                   |
+|    Section             |  Package                        |  Version |  Purpose                                   |
 |------------------------|--------------------------------|------------|---------------------------------------------|
-| 🎨 **UI Components**   | `dotted_border`                | ^2.0.0+3   | Custom dotted borders                       |
+|    **UI Components**   | `dotted_border`                | ^2.0.0+3   | Custom dotted borders                       |
 |                        | `carousel_slider`              | ^5.0.0     | Image carousels                             |
 |                        | `flutter_svg`                  | ^2.0.5     | SVG image support                           |
 |                        | `easy_localization`            | ^3.0.1     | Multi-language support                      |
@@ -55,35 +55,35 @@ All dependencies are already defined in `pubspec.yaml`:
 |                        | `flutter_timer_countdown`      | ^1.0.5     | Countdown timers                            |
 |                        | `pin_code_fields`              | ^8.0.1     | PIN code input fields                       |
 |                        | `photo_view`                   | ^0.15.0    | Zoomable images                             |
-| 🗺️ **Maps & Location** | `google_maps_flutter`          | ^2.2.6     | Google Maps integration                     |
+|    **Maps & Location** | `google_maps_flutter`          | ^2.2.6     | Google Maps integration                     |
 |                        | `google_maps_place_picker_mb`  | ^3.0.2     | Place picker using Google Maps              |
 |                        | `geolocator`                   | -          | Get current device location                 |
 |                        | `geocoding`                    | ^3.0.0     | Convert coordinates to addresses            |
-| 🔗 **Device Features** | `url_launcher`                 | ^6.0.20    | Open URLs in browser or apps                |
+|    **Device Features** | `url_launcher`                 | ^6.0.20    | Open URLs in browser or apps                |
 |                        | `permission_handler`           | ^11.4.0    | Runtime permissions                         |
-| 🔥 **Backend & Auth**  | `firebase_messaging`           | ^15.2.4    | Push notifications                          |
+|    **Backend & Auth**  | `firebase_messaging`           | ^15.2.4    | Push notifications                          |
 |                        | `firebase_core`                | ^3.12.1    | Firebase core functionality                 |
 |                        | `firebase_auth`                | ^5.5.1     | User authentication                         |
-| 🛠 **Utilities**       | `shared_preferences`           | ^2.1.1     | Local key-value storage                     |
+|    **Utilities**       | `shared_preferences`           | ^2.1.1     | Local key-value storage                     |
 |                        | `dio`                          | ^5.8.0+1   | HTTP requests                               |
 |                        | `dio_http2_adapter`            | -          | HTTP/2 adapter for Dio                      |
 |                        | `connectivity_plus`            | -          | Network connectivity checker                |
 |                        | `fluttertoast`                 | ^8.2.1     | Toast messages                              |
-| 🧩 **State & DI**      | `provider`                     | ^6.0.4     | State management                            |
+|    **State & DI**      | `provider`                     | ^6.0.4     | State management                            |
 |                        | `get_it`                       | ^8.0.3     | Dependency injection                        |
 |                        | `logger`                       | ^2.5.0     | Advanced logging                            |
 |                        | `logging`                      | ^1.1.0     | Logging utilities                           |
-| 🎬 **Animations**      | `lottie`                       | -          | Lottie animations                           |
+|    **Animations**      | `lottie`                       | -          | Lottie animations                           |
 
-## 📱 Download the App
+## Download the App
 
 > ### [Android](https://play.google.com/store/apps/details?id=com.name.ejaz)
 
-## 💻 Source Code
+## Source Code
 
 > ### [URL](https://github.com/AbdoOo20/Ejaz)
 
-## 📷 Screenshots
+## Screenshots
 
 <table>
   <tr>
