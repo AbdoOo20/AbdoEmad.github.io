@@ -15,37 +15,37 @@ toc: true
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-✅ **Premium Video Lessons**  
-Access paid educational videos covering different subjects with clear explanations and step-by-step guidance.
+**Premium Video Lessons**  
+ Access paid educational videos covering different subjects with clear explanations and step-by-step guidance.
 
-✅ **Social Community**  
-- Post and share updates with other students.  
-- Comment, like, and interact with the community.  
-- Follow top students and teachers.
+**Social Community**  
+ - Post and share updates with other students.  
+ - Comment, like, and interact with the community.  
+ - Follow top students and teachers.
 
-✅ **Live Chat with Teachers**  
-Communicate directly with your teachers through private messaging to ask questions and get support.
+**Live Chat with Teachers**  
+ Communicate directly with your teachers through private messaging to ask questions and get support.
 
-✅ **Stories & Highlights**  
-View daily stories from your peers and teachers, and see the top-performing students.
+**Stories & Highlights**  
+ View daily stories from your peers and teachers, and see the top-performing students.
 
-✅ **Rankings**  
-Stay motivated by checking the leaderboard of top students in your class or subject.
+**Rankings**  
+ Stay motivated by checking the leaderboard of top students in your class or subject.
 
-✅ **Screen Capture Protection**  
-Enhanced security to prevent unauthorized screenshots or screen recordings.
+**Screen Capture Protection**  
+ Enhanced security to prevent unauthorized screenshots or screen recordings.
 
-✅ **Push Notifications**  
-Get real-time updates for new videos, messages, and announcements.
+**Push Notifications**  
+ Get real-time updates for new videos, messages, and announcements.
 
-✅ **Multi-platform Support**  
-Built with **Flutter**, the app works seamlessly on Android and iOS devices.
+**Multi-platform Support**  
+ Built with **Flutter**, the app works seamlessly on Android and iOS devices.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Flutter & Dart**  
 - **Firebase** for Authentication, Firestore, Storage, and Push Notifications.
@@ -57,53 +57,53 @@ Built with **Flutter**, the app works seamlessly on Android and iOS devices.
 
 ---
 
-## 📦 Required Packages
+## Required Packages
 
 
-| 📂 Section               | 📦 Package                     | 🏷️ Version | 🎯 Purpose                                               |
+|  Section                 |  Package                        | Version |       Purpose                                            |
 |--------------------------|--------------------------------|------------|----------------------------------------------------------|
-| 🧩 Core Flutter          | **flutter**                    | sdk: flutter | Flutter SDK                                              |
-| 🖼 UI Essentials         | **cupertino_icons**            | ^1.0.2     | iOS style icons                                          |
+|    Core Flutter          | **flutter**                    | sdk: flutter | Flutter SDK                                              |
+|    UI Essentials         | **cupertino_icons**            | ^1.0.2     | iOS style icons                                          |
 |                          | **conditional_builder_null_safety** | ^0.0.6 | Conditional widgets builder                              |
 |                          | **expansion_widget**           | latest     | Expand/collapse widgets                                  |
 |                          | **like_button**                | latest     | Like button with animation                               |
 |                          | **percent_indicator**          | latest     | Circular/linear percent indicators                       |
-| 📷 Media & Files         | **image_picker**               | latest     | Pick images from gallery or camera                       |
+|    Media & Files         | **image_picker**               | latest     | Pick images from gallery or camera                       |
 |                          | **path_provider**              | latest     | Access device paths                                      |
 |                          | **path**                       | ^1.8.1     | File system path manipulation                            |
 |                          | **video_player**               | latest     | Play video files                                         |
 |                          | **flick_video_player**         | latest     | Advanced video player                                    |
-| 🎚 Audio                 | **flutter_sound_lite**         | ^8.5.0     | Record & play audio                                      |
+|    Audio                 | **flutter_sound_lite**         | ^8.5.0     | Record & play audio                                      |
 |                          | **audioplayers**               | ^0.20.1    | Play audio files                                         |
-| 🗂️ Utilities             | **fluttertoast**               | latest     | Show toast messages                                      |
+|    Utilities             | **fluttertoast**               | latest     | Show toast messages                                      |
 |                          | **intl**                       | latest     | Internationalization support                             |
 |                          | **http**                       | ^0.13.4    | HTTP requests                                            |
 |                          | **url_launcher**               | latest     | Open external URLs                                       |
 |                          | **auto_orientation**           | latest     | Manage screen orientation                                |
 |                          | **internet_connection_checker**| latest     | Check internet connection                                |
-| 🔑 Permissions & Security | **permission_handler**        | latest     | Handle runtime permissions                               |
+|   Permissions & Security | **permission_handler**        | latest     | Handle runtime permissions                               |
 |                          | **flutter_windowmanager**      | ^0.2.0     | Secure app content from screenshots                      |
-| 🗃 Local Storage         | **shared_preferences**         | latest     | Local key-value storage                                  |
-| 🔥 Firebase Services     | **firebase_core**              | latest     | Firebase core functionality                              |
+|    Local Storage         | **shared_preferences**         | latest     | Local key-value storage                                  |
+|    Firebase Services     | **firebase_core**              | latest     | Firebase core functionality                              |
 |                          | **firebase_auth**              | latest     | User authentication                                      |
 |                          | **cloud_firestore**            | latest     | Cloud Firestore database                                 |
 |                          | **firebase_storage**           | latest     | Store files in Firebase                                  |
 |                          | **firebase_messaging**         | latest     | Push notifications                                       |
 |                          | **flutter_local_notifications**| latest     | Local notifications                                      |
 |                          | **onesignal_flutter**          | latest     | OneSignal push notifications                             |
-| 🧩 State Management      | **bloc**                       | latest     | BLoC state management                                    |
+|    State Management      | **bloc**                       | latest     | BLoC state management                                    |
 |                          | **flutter_bloc**               | latest     | Flutter bindings for BLoC                                |
-| 🕒 Date & Time Picker    | **flutter_datetime_picker**    | git: master | Date & time picker (custom ref)                          |
-| 💦 Progress Indicators   | **liquid_progress_indicator**  | latest     | Liquid style progress indicators                         |
-| 🎨 Splash & Icons        | **flutter_native_splash**      | latest     | Native splash screens                                    |
+|    Date & Time Picker    | **flutter_datetime_picker**    | git: master | Date & time picker (custom ref)                          |
+|    Progress Indicators   | **liquid_progress_indicator**  | latest     | Liquid style progress indicators                         |
+|    Splash & Icons        | **flutter_native_splash**      | latest     | Native splash screens                                    |
 |                          | **flutter_launcher_icons**     | latest     | App launcher icons                                       |
 
 ---
 
-### 💻 Source Code
+### Source Code
 > ### [URL](https://github.com/AbdoOo20/Twins)
 
-## 📷 Screenshots
+## Screenshots
 
 <table>
   <tr>
