@@ -2,7 +2,7 @@
 title: Digital Teacher
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/d021719b-7761-419a-8c5b-795b592807ee
+  teaser: https://github.com/user-attachments/assets/ed355739-ed8f-4357-bcd9-5f70f8ab3551
 ribbon: MidnightBlue
 categories:
   - Flutter_Projects
@@ -52,14 +52,25 @@ App is a comprehensive Flutter application that enables teachers to easily creat
 
 ---
 
-## Code Repository
+## Code
 
 [URL](https://github.com/AbdoOo20/Digital-Teacher)
 
-
 ---
 
-## App Screenshots
-
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1c59c266-4239-4c42-93bd-ee2cae57ce3b" alt="Screen 1" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1437f720-e9f9-4152-9fcb-d397188ca7db" alt="Screen 2" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/87aeef6a-4391-4869-b7de-559fe4a164e7" alt="Screen 3" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/fd66ebd0-ffb8-4665-b720-5c145d162f31" alt="Screen 4" width="150" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3558468f-1e89-4b5d-b675-134ad562abfe" alt="Screen 5" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/074db286-5469-4721-8c58-086252ef2230" alt="Screen 6" width="150" /></td>
+    <td><img src="https://github.com/user-attachments/assets/ab85b9a9-5c72-4258-a7f5-e90a0a1ed94f" alt="Screen 7" width="150" /></td>
+  </tr>
+</table>
 ---
 
