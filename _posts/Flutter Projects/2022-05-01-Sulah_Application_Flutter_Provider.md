@@ -15,34 +15,34 @@ toc: true
 Users can browse products, place online orders, make secure payments, and track their orders in real-time — all within a modern, user-friendly, multi-language interface.
 
 
-## ✨ Key Features
+## Key Features
 
-✅ **Product Catalog**  
-Browse a wide range of products with high-quality images and detailed descriptions.
+**Product Catalog**  
+ Browse a wide range of products with high-quality images and detailed descriptions.
 
-✅ **Smart Search & Filters**  
-Quickly find what you’re looking for with advanced search and filtering options.
+**Smart Search & Filters**  
+ Quickly find what you’re looking for with advanced search and filtering options.
 
-✅ **Secure Online Ordering**  
-Add items to your cart, place orders, and complete payments safely.
+**Secure Online Ordering**  
+ Add items to your cart, place orders, and complete payments safely.
 
-✅ **Real-time Order Tracking**  
-Track your order status and delivery location live on the map.
+**Real-time Order Tracking**  
+ Track your order status and delivery location live on the map.
 
-✅ **User Accounts & Profiles**  
-Manage your personal information, addresses, and payment methods easily.
+**User Accounts & Profiles**  
+ Manage your personal information, addresses, and payment methods easily.
 
-✅ **Push Notifications**  
-Get instant updates about your order status, offers, and promotions.
+**Push Notifications**  
+ Get instant updates about your order status, offers, and promotions.
 
-✅ **Multi-language Support**  
-Switch between languages for a personalized shopping experience.
+**Multi-language Support**  
+ Switch between languages for a personalized shopping experience.
 
-✅ **Modern UI & Smooth Animations**  
-Attractive, responsive design with engaging animations for an enhanced user experience.
+**Modern UI & Smooth Animations**  
+ Attractive, responsive design with engaging animations for an enhanced user experience.
 
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Flutter** — Cross-platform mobile app development.
 - **Provider** / **GetIt** — State management & dependency injection.
@@ -51,31 +51,31 @@ Attractive, responsive design with engaging animations for an enhanced user expe
 - **Shared Preferences** — Local data storage.
 - **Firebase** *(optional)* — Notifications and backend services.
 
-## 📦 Main Packages
+## Main Packages
 
-| 📂 Category          | 📦 Package                | Purpose                                |
-|----------------------|---------------------------|----------------------------------------|
-| 🛠 Core              | `provider` / `get_it`     | State management, dependency injection |
-| 🌐 Networking        | `dio`                     | API calls                               |
-| 🗺️ Maps & Location   | `google_maps_place_picker_mb`, `geolocator`, `geocoding` | Location services                       |
-| 💾 Storage           | `shared_preferences`      | Local storage                          |
-| 🔔 Notifications     | `firebase_messaging`, `flutter_local_notifications` | Push & local notifications             |
-| 🎨 UI/UX             | `carousel_slider`, `smooth_page_indicator`, `lottie`, `shimmer` | Animations & sliders                    |
-| 📸 Media             | `image_picker`, `cached_network_image` | Media handling                          |
-| 🌍 Localization      | `easy_localization`       | Multi-language support                 |
-| 🔑 Permissions       | `permission_handler`      | Runtime permissions                    |
-| 🔗 Others            | `url_launcher`, `logger`  | External links, logging                |
+|    Category        |    Package                | Purpose                                |
+|--------------------|---------------------------|----------------------------------------|
+|  Core              | `provider` / `get_it`     | State management, dependency injection |
+|  Networking        | `dio`                     | API calls                               |
+|  Maps & Location   | `google_maps_place_picker_mb`, `geolocator`, `geocoding` | Location services                       |
+|  Storage           | `shared_preferences`      | Local storage                          |
+|  Notifications     | `firebase_messaging`, `flutter_local_notifications` | Push & local notifications             |
+|  UI/UX             | `carousel_slider`, `smooth_page_indicator`, `lottie`, `shimmer` | Animations & sliders                    |
+|  Media             | `image_picker`, `cached_network_image` | Media handling                          |
+|  Localization      | `easy_localization`       | Multi-language support                 |
+|  Permissions       | `permission_handler`      | Runtime permissions                    |
+|  Others            | `url_launcher`, `logger`  | External links, logging                |
 
-## 📱 Download the App
+## Download the App
 
 - **[iOS](https://apps.apple.com/sa/app/%D8%B3%D9%8A%D9%88%D9%84%D8%A9/id6478117421)**
 - **[Android](https://play.google.com/store/apps/details?id=com.users.sulahapp)**
 
-### 💻 Source Code
+### Source Code
 > ### [URL For Sulah App](https://github.com/AbdoOo20/Sulah)
 > ### [URL For Sulah Store](https://github.com/AbdoOo20/Sulah-Store)
 
-## 📷 Screenshots
+## Screenshots
 
 <table>
   <tr>
