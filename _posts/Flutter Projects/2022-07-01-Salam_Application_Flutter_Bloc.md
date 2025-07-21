@@ -12,7 +12,7 @@ toc: true
 # 🌟 Salam
 #### The Salam Wristband is an innovative wearable device that makes connecting with others as simple as a touch. Just tap your Salam wristband to a smartphone to instantly share your contact information and social media profiles — no apps or typing required! 
 
-## 🚀 Key Features
+## Key Features
 
 (1) Instant Contact Sharing: Tap to connect and share your details in seconds.
 
@@ -24,13 +24,13 @@ toc: true
 
 (5) Stay Connected Anywhere: Whether at events, meetings, or social gatherings — never miss a connection again.
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Flutter** – Cross-platform UI toolkit 
 - **Firebase** – Backend services (Authentication, Firestore, Storage, Messaging)
 - **Cubit / Bloc** – State management architecture
 
-## 📦 Required Packages
+## Required Packages
 
 To run this project, make sure you install the following packages (already defined in `pubspec.yaml`):
 
@@ -48,15 +48,15 @@ To run this project, make sure you install the following packages (already defin
 | `intl`                       | Localization and formatting      |
 | `nfc_manager`                 | Read/write NFC tags             |
 
-## 📱 Download the App
+## Download the App
 
 > ### [IOS](https://apps.apple.com/eg/app/salam/id6449319780)
 > ### [Android](https://play.google.com/store/apps/details?id=com.sallam.tech)
 
-### 💻 Source Code
+### Source Code
 > ### [URL](https://github.com/AbdoOo20/Salam)
 
-## 📷 Screenshots
+## Screenshots
 
 <table>
   <tr>
