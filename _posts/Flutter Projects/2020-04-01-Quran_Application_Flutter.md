@@ -9,44 +9,44 @@ categories:
 toc: true
 ---
 
-# 📖 Quran App
+# 🕌 Quran App
 
-**Quran App** is a comprehensive Islamic Flutter application that helps you read the Holy Quran, track your daily Azkar, check prayer times, find Qibla direction, listen to multiple reciters, and learn the rituals of Hajj and Umrah 🕋✨
-
----
-
-## ✨ Key Features
-
-📖 **Holy Quran**  
-Read the full Mushaf with advanced search and bookmarking.
-
-🕌 **Prayer Times**  
-Accurate prayer times with automatic location detection and Azan reminders.
-
-🧭 **Qibla Direction**  
-A precise compass to find the Qibla direction anywhere.
-
-🔊 **Multiple Reciters**  
-High-quality audio recitations from many famous Quran reciters.
-
-🗓️ **Hijri Calendar**  
-View the accurate Hijri date alongside the Gregorian date.
-
-📿 **Daily Azkar**  
-Morning and evening Azkar with a built-in counter.
-
-🕋 **Hajj & Umrah Guide**  
-Step-by-step rituals with text and audio instructions.
-
-🔔 **Local Notifications**  
-Timely reminders for Azkar, prayer times, and other important tasks.
-
-🌐 **Offline Support**  
-Read the Quran and Azkar without an internet connection.
+**Quran App** is a comprehensive Islamic Flutter application that helps you read the Holy Quran, track your daily Azkar, check prayer times, find Qibla direction, listen to multiple reciters, and learn the rituals of Hajj and Umrah
 
 ---
 
-## ⚙️ Technologies Used
+## Key Features
+
+**Holy Quran**  
+ Read the full Mushaf with advanced search and bookmarking.
+
+**Prayer Times**  
+ Accurate prayer times with automatic location detection and Azan reminders.
+
+**Qibla Direction**  
+ A precise compass to find the Qibla direction anywhere.
+
+**Multiple Reciters**  
+ High-quality audio recitations from many famous Quran reciters.
+
+**Hijri Calendar**  
+ View the accurate Hijri date alongside the Gregorian date.
+
+**Daily Azkar**  
+ Morning and evening Azkar with a built-in counter.
+
+**Hajj & Umrah Guide**  
+ Step-by-step rituals with text and audio instructions.
+
+**Local Notifications**  
+ Timely reminders for Azkar, prayer times, and other important tasks.
+
+**Offline Support**  
+ Read the Quran and Azkar without an internet connection.
+
+---
+
+## Technologies Used
 
 - **Flutter** — Cross-platform framework
 - **Provider** — State management
@@ -63,9 +63,9 @@ Read the Quran and Azkar without an internet connection.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
-| 📦 Package                | 📝 Description                                |
+|    Package                |    Description                                |
 |---------------------------|-----------------------------------------------|
 | flutter                   | Main Flutter SDK framework                    |
 | cupertino_icons           | iOS-style icons                               |
@@ -90,13 +90,13 @@ Read the Quran and Azkar without an internet connection.
 
 ---
 
-## 💻 Source Code
+## Source Code
 
-> 👨‍💻 [URL](https://github.com/AbdoOo20/Quran)
+>  [URL](https://github.com/AbdoOo20/Quran)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
