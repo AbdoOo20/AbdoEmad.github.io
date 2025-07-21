@@ -16,29 +16,29 @@ Focus on your tasks, take effective breaks, and track your progress easily!
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-⏰ **Customizable Timer**  
-Set your own work and break intervals to match your workflow.
+**Customizable Timer**  
+ Set your own work and break intervals to match your workflow.
 
-🔔 **Local Notifications**  
-Get accurate reminders for each Pomodoro session.
+**Local Notifications**  
+ Get accurate reminders for each Pomodoro session.
 
-🗓️ **Daily Timeline**  
-Pick dates, plan your sessions, and review your progress.
+**Daily Timeline**  
+ Pick dates, plan your sessions, and review your progress.
 
-📊 **Progress Tracking**  
-Visualize your productivity with clear stats and progress indicators.
+**Progress Tracking**  
+ Visualize your productivity with clear stats and progress indicators.
 
-🎵 **Custom Sounds**  
-Enjoy different alarm sounds for long and short breaks.
+**Custom Sounds**  
+ Enjoy different alarm sounds for long and short breaks.
 
-💾 **Auto Save**  
-All your settings and preferences are saved automatically.
+**Auto Save**  
+ All your settings and preferences are saved automatically.
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Flutter** – Cross-platform framework
 - **Provider** – State management
@@ -49,9 +49,9 @@ All your settings and preferences are saved automatically.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
-| 📦 Package                 | 🏷️ Version | 📝 Description                |
+|    Package                 |    Version |    Description                |
 |----------------------------|------------|-------------------------------|
 | flutter_local_notifications | ^17.0.0   | Local notifications           |
 | intl                        | ^0.17.0   | Internationalization          |
@@ -74,19 +74,19 @@ All your settings and preferences are saved automatically.
 
 ---
 
-## 📲 Download
+## Download
 
 Get the app on Google Play:  
-👉 [**URL**](https://play.google.com/store/apps/details?id=sword.example.timer)
+> [**URL**](https://play.google.com/store/apps/details?id=sword.example.timer)
 
 ---
 
-## 💻 Source Code
-> 👉 [URL](https://github.com/AbdoOo20/sword-timer-pomodoro)
+## Source Code
+>  [URL](https://github.com/AbdoOo20/sword-timer-pomodoro)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
