@@ -108,5 +108,5 @@ toc: true
 
 ---
 
-> 🕋 *May Allah accept this work and make it beneficial for all Muslims.* 🤲
+>  *May Allah accept this work and make it beneficial for all Muslims.* 🤲
 
