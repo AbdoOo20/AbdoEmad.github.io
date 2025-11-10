@@ -1,4 +1,3 @@
-
 ---
 title: Wdni (Customer Ride-Sharing Application) 
 classes: wide
