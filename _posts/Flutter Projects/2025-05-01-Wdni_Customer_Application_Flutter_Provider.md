@@ -54,7 +54,7 @@ Attractive user interface with animations, icons, and fluid transitions.
 - **Rxdart** — Reactive data handling.
 - **EasyLoading & Toasts** — Modern user feedback and UX helpers.
 
-## 📦 Main Packages
+## Main Packages
 
 | Category | Package | Purpose |
 |-----------|----------|----------|
