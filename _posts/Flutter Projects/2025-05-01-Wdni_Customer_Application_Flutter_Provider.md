@@ -9,7 +9,7 @@ categories:
 toc: true
 ---
 
-# 🛒 WDNI - Ride-Sharing & Customer App
+# 🚖 WDNI - Ride-Sharing & Customer App
 
 **WDNI** is a next-generation **ride-sharing and customer service app**, inspired by platforms like **inDrive**, built entirely with **Flutter**.  
 It connects riders and drivers directly, enabling real-time ride negotiation, tracking, and secure communication — all in an intuitive and fast mobile experience.
