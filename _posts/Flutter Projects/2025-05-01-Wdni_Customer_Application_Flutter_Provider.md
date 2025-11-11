@@ -11,36 +11,36 @@ toc: true
 
 # 🚖 WDNI - Ride-Sharing & Customer App
 
-**WDNI** is a next-generation **ride-sharing and customer service app**, inspired by platforms like **inDrive**, built entirely with **Flutter**.  
+#### WDNI is a next-generation ride-sharing and customer service app, inspired by platforms like inDrive, built entirely with Flutter.  
 It connects riders and drivers directly, enabling real-time ride negotiation, tracking, and secure communication — all in an intuitive and fast mobile experience.
 
 ## Key Features
 
-** Real-Time Ride Booking**  
+**Real-Time Ride Booking**  
 Request a ride, set your pickup & drop-off locations, and connect instantly with nearby drivers.
 
-** Smart Negotiation System**  
+**Smart Negotiation System**  
 Riders can offer their price, and drivers can accept or counter — putting control in users’ hands.
 
-** Live Location & Tracking**  
+**Live Location & Tracking**  
 Track rides live on the map with accurate navigation using Google Maps and OpenStreetMap integration.
 
-** Push Notifications**  
+**Push Notifications**  
 Get notified instantly for ride requests, confirmations, messages, and offers.
 
-** Multi-language Support**  
+**Multi-language Support**  
 Automatic translation and manual language switching for a localized user experience.
 
-** Secure Accounts & Authentication**  
+**Secure Accounts & Authentication**  
 Sign in with Google, Apple, or phone number using Firebase Authentication.
 
-** Rating & Feedback**  
+**Rating & Feedback**  
 Users can rate drivers and share feedback for better service quality.
 
-** File & Media Sharing**  
+**File & Media Sharing**  
 Send or view ride details, receipts, and images directly within the app.
 
-** Modern, Smooth UI**  
+**Modern, Smooth UI**  
 Attractive user interface with animations, icons, and fluid transitions.
 
 ## Technologies Used
@@ -70,11 +70,11 @@ Attractive user interface with animations, icons, and fluid transitions.
 
 ## Download the App
 
-- **[iOS](https://apps.apple.com/eg/app/ودني-مشاوير-توصيل-وأكثر/id6747665421)**
-- **[Android](https://play.google.com/store/apps/details?id=com.wdni.customers)**
+> ### [iOS](https://apps.apple.com/eg/app/ودني-مشاوير-توصيل-وأكثر/id6747665421)
+> ### [Android](https://play.google.com/store/apps/details?id=com.wdni.customers)
 
 ### Source Code
-> ### [URL For Wdni Customer App](https://github.com/AbdoOo20/Wdni-Customer)
+> ### [URL](https://github.com/AbdoOo20/Wdni-Customer)
 
 ## Screenshots
 
