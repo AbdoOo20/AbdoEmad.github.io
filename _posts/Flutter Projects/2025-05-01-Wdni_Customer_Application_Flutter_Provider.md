@@ -1,8 +1,8 @@
 ---
-title: Wdni 
+title: Wdni (Customer Ride-Sharing Application)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/da744288-0dc6-452a-8ef4-69165d69f43d
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/wdniCustomer.jpg?token=GHSAT0AAAAAADEPHCOTAXJNLXKWUQBGYI3U2ITJMCA
 ribbon: MidnightBlue
 categories:
   - Flutter_Projects
@@ -80,15 +80,15 @@ Attractive user interface with animations, icons, and fluid transitions.
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9ad93e7c-16ab-4c37-878c-34dd840fee2f" alt="Screen 1" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1c7c57c7-4e33-426c-ad7e-f3cfb9277653" alt="Screen 2" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/10dcad7b-a594-4a09-a0aa-096963e32b8d" alt="Screen 3" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/04ffd27d-75cc-4a8f-b47b-3f0268934428" alt="Screen 4" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/1.jpg?token=GHSAT0AAAAAADEPHCOTUP3Q3KCB4IVMGD4Y2ITJMSA" alt="Screen 1" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/2.jpg?token=GHSAT0AAAAAADEPHCOS6N5JWFYWZ64DUB2E2ITJMYA" alt="Screen 2" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/3.jpg?token=GHSAT0AAAAAADEPHCOTYFG7HAPAXTKSY2OA2ITJM6A" alt="Screen 3" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/4.jpg?token=GHSAT0AAAAAADEPHCOTC7LZIEQHTJYTUU4U2ITJNFA" alt="Screen 4" width="150"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/52777708-4067-4260-82a3-8aa8d178a62c" alt="Screen 7" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/abbaf0d8-1be8-434d-95f3-25dfea467731" alt="Screen 8" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9ea9c6bc-f7cf-4adb-84dc-8d19c3de79c9" alt="Screen 9" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/16dfa6c3-cc12-4b6d-b69f-4e2e8939a35c" alt="Screen 10" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/5.jpg?token=GHSAT0AAAAAADEPHCOTLXXAKWYK2C6SJOMW2ITJNNA" alt="Screen 7" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/6.jpg?token=GHSAT0AAAAAADEPHCOTJ2QHV6IVZBKE6QFU2ITJNSQ" alt="Screen 8" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/7.jpg?token=GHSAT0AAAAAADEPHCOSUXHC6TTO6M47AHTU2ITJN5Q" alt="Screen 9" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/8.jpg?token=GHSAT0AAAAAADEPHCOSBVCIBDRNGYN224RY2ITJOKA" alt="Screen 10" width="150"/></td>
   </tr>
 </table>
