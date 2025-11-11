@@ -1,5 +1,5 @@
 ---
-title: Wdni (Customer Ride-Sharing Application) 
+title: Wdni 
 classes: wide
 header:
   teaser: https://github.com/user-attachments/assets/da744288-0dc6-452a-8ef4-69165d69f43d
