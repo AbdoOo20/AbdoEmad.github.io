@@ -88,7 +88,6 @@ Elegant design, fluid animations, and easy navigation optimized for driver workf
     <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/11.jpg" alt="Screen 3" width="150"/></td>
     <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/12.jpg" alt="Screen 4" width="150"/></td>
     <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/13.jpg" alt="Screen 5" width="150"/></td>
-     <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/wdniDriver.jpg" alt="Screen 5" width="150"/></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/14.jpg" alt="Screen 6" width="150"/></td>
