@@ -80,8 +80,8 @@ Attractive user interface with animations, icons, and fluid transitions.
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0a6d83a8-b044-4ffc-9273-3022a283a322" alt="Screen 1" width="150"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9f36fa66-54c3-444a-b666-f49575e443b5" alt="Screen 2" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9ad93e7c-16ab-4c37-878c-34dd840fee2f" alt="Screen 1" width="150"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1c7c57c7-4e33-426c-ad7e-f3cfb9277653" alt="Screen 2" width="150"/></td>
     <td><img src="https://github.com/user-attachments/assets/10dcad7b-a594-4a09-a0aa-096963e32b8d" alt="Screen 3" width="150"/></td>
     <td><img src="https://github.com/user-attachments/assets/04ffd27d-75cc-4a8f-b47b-3f0268934428" alt="Screen 4" width="150"/></td>
   </tr>
