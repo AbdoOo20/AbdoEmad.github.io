@@ -80,15 +80,15 @@ Attractive user interface with animations, icons, and fluid transitions.
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/1.jpg?token=GHSAT0AAAAAADEPHCOTUP3Q3KCB4IVMGD4Y2ITJMSA" alt="Screen 1" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/2.jpg?token=GHSAT0AAAAAADEPHCOS6N5JWFYWZ64DUB2E2ITJMYA" alt="Screen 2" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/3.jpg?token=GHSAT0AAAAAADEPHCOTYFG7HAPAXTKSY2OA2ITJM6A" alt="Screen 3" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/4.jpg?token=GHSAT0AAAAAADEPHCOTC7LZIEQHTJYTUU4U2ITJNFA" alt="Screen 4" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/1.jpg" alt="Screen 1" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/2.jpg" alt="Screen 2" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/3.jpg" alt="Screen 3" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/4.jpg" alt="Screen 4" width="150"/></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/5.jpg?token=GHSAT0AAAAAADEPHCOTLXXAKWYK2C6SJOMW2ITJNNA" alt="Screen 7" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/6.jpg?token=GHSAT0AAAAAADEPHCOTJ2QHV6IVZBKE6QFU2ITJNSQ" alt="Screen 8" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/7.jpg?token=GHSAT0AAAAAADEPHCOSUXHC6TTO6M47AHTU2ITJN5Q" alt="Screen 9" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/8.jpg?token=GHSAT0AAAAAADEPHCOSBVCIBDRNGYN224RY2ITJOKA" alt="Screen 10" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/5.jpg" alt="Screen 7" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/6.jpg" alt="Screen 8" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/7.jpg" alt="Screen 9" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/8.jpg" alt="Screen 10" width="150"/></td>
   </tr>
 </table>
