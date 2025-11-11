@@ -2,7 +2,7 @@
 title: Wdni (Customer Ride-Sharing Application) 
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/0a4c4693-7e03-4950-ba4a-e1c43849ddb2
+  teaser: https://github.com/user-attachments/assets/f07aca70-d5a6-4b09-ba50-f85279033e54
 ribbon: MidnightBlue
 categories:
   - Flutter_Projects
