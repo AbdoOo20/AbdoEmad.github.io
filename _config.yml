@@ -20,7 +20,7 @@ locale                   : "en-US"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Abdelrahman Emad"
-description              : "Full Stack .NET Developer                     Flutter Developer"
+description              : "Full Stack .NET Developer & Flutter Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Abdelrahman Emad"
   avatar           : /assets/images/site_data/abdo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack .Net Developer<be><br>---------------  And  ----------------<be><br>Flutter Developer"
+  bio              : "Full Stack .Net Developer<br>Flutter Developer"
   location         : "Cairo - Egypt"
   email            : "abdelrahman.emadeldin.ragab@gmail.com"
   links:
@@ -117,9 +117,6 @@ author:
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp-square"
       url: "https://wa.me/+201018754602"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:abdelrahman.emadeldin.ragab@gmail.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/7usseinadel7"
