@@ -117,15 +117,12 @@ author:
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp-square"
       url: "https://wa.me/+201018754602"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/7usseinadel7"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/abdo.emad.252832"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/abdo_emad208"
+      url: "https://www.instagram.com/abdo0o_emad"
 
 # Site Footer
 footer:
