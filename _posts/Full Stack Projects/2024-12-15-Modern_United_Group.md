@@ -52,16 +52,16 @@ Home Furniture Company is a leading provider of modern home and building solutio
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/1.png" alt="Screen 1" width="150" /></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/2.png" alt="Screen 2" width="150" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/1.png" alt="Screen 1" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/2.png" alt="Screen 2" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/3.png" alt="Screen 5" width="150" /></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/4.png" alt="Screen 6" width="150" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/3.png" alt="Screen 5" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/4.png" alt="Screen 6" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/5.png" alt="Screen 5" width="150" /></td>
-    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/6.png" alt="Screen 6" width="150" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/5.png" alt="Screen 5" /></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/6.png" alt="Screen 6" /></td>
   </tr>
 </table>
 
