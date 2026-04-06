@@ -2,8 +2,8 @@
 title: Ejaz (Recruitment Application)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/fcee432a-bbb8-458f-8515-bc10f249991a
-ribbon: MidnightBlue
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/ej1.png
+ribbon: GoldenRod
 categories:
   - Flutter_Projects
 toc: true
