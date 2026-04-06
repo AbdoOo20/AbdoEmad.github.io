@@ -3,7 +3,7 @@ title: Wdni (Driver Ride-Sharing Application)
 classes: wide
 header:
   teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Wdni/wdniDriver.jpg
-ribbon: MidnightBlue
+ribbon: SeaGreen
 categories:
   - Flutter_Projects
 toc: true
