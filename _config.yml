@@ -20,7 +20,7 @@ locale                   : "en-US"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Abdelrahman Emad"
-description              : "Full Stack .NET Developer & Flutter Developer"
+description              : ".NET Developer & Flutter Developer & Angular Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Abdelrahman Emad"
   avatar           : /assets/images/site_data/IMG_3293.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack .Net Developer<br>Flutter Developer"
+  bio              : ".Net Developer<br>Flutter Developer<br>Angular Developer"
   location         : "Cairo - Egypt"
   email            : "abdelrahman.emadeldin.ragab@gmail.com"
   links:
