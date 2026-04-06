@@ -2,7 +2,7 @@
 title: Mio Garage
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/3815db51-61fd-4af1-8b6d-03f757cafc6f
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mio%20Garage/logo.png
 ribbon: MidnightBlue
 categories:
   - Full_Stack_Projects
