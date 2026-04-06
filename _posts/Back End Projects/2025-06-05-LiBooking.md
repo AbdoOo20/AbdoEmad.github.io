@@ -1,22 +1,21 @@
 ---
-title: Libya Booking & POS Integrated System
+title: LiBooking
 classes: wide
 header:
-  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/projects/booking-teaser.png
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/LiBooking/liLogo.png
 ribbon: MidnightBlue
 categories:
-  - Backend_Development
-  - DotNet_Core_WebAPI
+  - Back_End_Projects
 toc: true
 ---
 
-# 🏨 Integrated Hospitality & Event Management System (Libya)
+# 🏨 LiBooking
 
-A high-performance, scalable Backend solution built to manage Hotels, Chalets, and Event Halls across Libya. This system is uniquely integrated with a **POS (Point of Sale)** system for real-time facility control and supports a complete financial ecosystem including E-Wallets and multiple Payment Gateways.
+LiBooking is an all-in-one Hospitality & Event Management Ecosystem designed to revolutionize the booking industry in Libya. By bridging the gap between cloud-based reservations and on-ground POS operations, it offers a unified platform for managing hotels, luxury chalets, and event venues with real-time facility synchronization and a secure local financial layer.
 
 ---
 
-## 🌟 Core Business Logic
+## Core Business Logic
 
 ### 1. Accommodations (Stay Management)
 - **Granular Booking:** Supports booking by **Individual Rooms** (Hotels) or **Full Units** (Apartments, Chalets, and Villas).
@@ -33,7 +32,7 @@ A high-performance, scalable Backend solution built to manage Hotels, Chalets, a
 
 ---
 
-## 🏗️ Architectural Excellence
+## Architectural Excellence
 
 The project follows a rigorous **Clean Architecture (Onion Architecture)** to ensure complete separation of concerns and maintainability:
 
@@ -44,7 +43,7 @@ The project follows a rigorous **Clean Architecture (Onion Architecture)** to en
 
 ---
 
-## 🚀 Technical Features
+## Technical Features
 
 - **Push Notifications:** Real-time alerts and booking confirmations via **Firebase (FCM)**.
 - **Global Pricing Engine:** Automatic price calculation based on user-specific currency settings.
@@ -53,7 +52,7 @@ The project follows a rigorous **Clean Architecture (Onion Architecture)** to en
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Backend:** .NET 8 / .NET Core Web API
 - **Database:** Microsoft SQL Server
@@ -64,17 +63,29 @@ The project follows a rigorous **Clean Architecture (Onion Architecture)** to en
 
 ---
 
-## 💻 Code & Documentation
+## 📱 Application & Live Demo
 
-[URL](https://github.com/AbdoOo20/Libya-Booking-System)
+Experience the ecosystem across different platforms:
+
+| Platform | Link |
+| :--- | :--- |
+| **Website** | [Visit Website](https://libooking.com/) |
+| **Android App** | [Download from Play Store](https://play.google.com/store/apps/details?id=com.libooking.app) |
+| **IOS App** | [Download from App Store](https://apps.apple.com/eg/app/libooking/id6754592394)
 
 ---
 
-## ⚙️ Key Technical Implementations
+### Test Credentials
 
-> **Note on Performance:** The system uses the **Specification Pattern** to handle complex filtering of rooms and halls (by date, shift, currency, and amenities) without cluttering the Service Layer.
+To explore the system features, you can use these demo accounts:
 
-```csharp
-// Example of the Specification Pattern used in the project
-var spec = new RoomWithCurrencySpecification(userCurrencyId, roomType);
-var room = await _unitOfWork.Repository<Room>().GetEntityWithSpec(spec);
+* **User Account:** `+201018754602` / `Abdo@123`
+
+---
+
+## Code
+
+[URL](https://github.com/mmtechLy4/libooking_backend)
+
+---
+
