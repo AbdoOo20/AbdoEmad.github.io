@@ -2,8 +2,8 @@
 title: Twins - Educational App
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/76b40698-575b-4de3-a3d3-0307c8212184
-ribbon: MidnightBlue
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/tw1.png
+ribbon: DarkOrange
 categories:
   - Flutter_Projects
 toc: true
