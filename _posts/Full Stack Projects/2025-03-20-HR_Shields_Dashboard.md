@@ -2,7 +2,7 @@
 title: HR-Shields Dashboard
 classes: wide
 header:
-  teaser: https://github.com/AbdoOo20/Images/blob/main/HR-Shields/logo.png
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/logo.png
 ribbon: DarkSlateBlue
 categories:
   - Full_Stack_Projects
@@ -81,35 +81,35 @@ You can explore the system features using the credentials provided below:
 
 <table>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/1.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/2.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/1.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/2.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/3.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/4.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/3.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/4.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/5.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/6.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/5.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/6.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/7.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/8.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/7.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/8.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/9.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/10.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/9.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/10.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/11.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/12.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/11.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/12.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/13.png"/></td>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/14.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/13.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/14.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbdoOo20/Images/blob/main/HR-Shields/15.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/15.png"/></td>
   </tr>
 </table>
 
