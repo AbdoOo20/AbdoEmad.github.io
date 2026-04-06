@@ -3,7 +3,7 @@ title: United Group
 classes: wide
 header:
   teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/United%20Group/newLogo.png
-ribbon: MidnightBlue
+ribbon: FireBrick
 categories:
   - Full_Stack_Projects
 toc: true
