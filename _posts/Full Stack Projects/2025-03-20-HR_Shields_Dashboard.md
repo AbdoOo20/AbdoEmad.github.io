@@ -1,5 +1,5 @@
 ---
-title: HR-Shields Dashboard
+title: HR-Shields
 classes: wide
 header:
   teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/newLogo2.png
