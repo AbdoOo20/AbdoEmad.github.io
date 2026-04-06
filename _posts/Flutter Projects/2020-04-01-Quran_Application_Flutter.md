@@ -2,8 +2,8 @@
 title: Quran App
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/28949269-f552-4e5f-8670-5888d0cf9972
-ribbon: MidnightBlue
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/qu1.jpg
+ribbon: DarkOrchid
 categories:
   - Flutter_Projects
 toc: true
