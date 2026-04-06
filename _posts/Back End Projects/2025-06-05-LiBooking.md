@@ -2,7 +2,7 @@
 title: LiBooking
 classes: wide
 header:
-  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/LiBooking/liLogo6.png
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/LiBooking/liLogo7.png
 ribbon: MidnightBlue
 categories:
   - Back_End_Projects
