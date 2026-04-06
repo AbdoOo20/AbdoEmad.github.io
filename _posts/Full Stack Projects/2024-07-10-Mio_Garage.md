@@ -1,4 +1,3 @@
-
 ---
 title: Mio Garage
 classes: wide
