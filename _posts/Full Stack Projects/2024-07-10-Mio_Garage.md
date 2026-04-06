@@ -3,7 +3,7 @@ title: Mio Garage
 classes: wide
 header:
   teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mio%20Garage/logo3.png
-ribbon: MidnightBlue
+ribbon: DarkOrange
 categories:
   - Full_Stack_Projects
 toc: true
