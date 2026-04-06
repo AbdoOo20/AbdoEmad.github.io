@@ -2,7 +2,7 @@
 title: Opps Store
 classes: wide
 header:
-  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/OppsStore/newlogo.png
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/OppsStore/newlogo1.png
 ribbon: DarkOrange
 categories:
   - Full_Stack_Projects
