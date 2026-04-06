@@ -2,8 +2,8 @@
 title: Salam (NFC Application)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/3f600bc6-6e80-4c6e-9a54-4a8d812279a5
-ribbon: MidnightBlue
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/sa1.jpg
+ribbon: black
 categories:
   - Flutter_Projects 
 toc: true
