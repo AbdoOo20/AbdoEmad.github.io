@@ -2,7 +2,7 @@
 title: IFMIS - Sports & Competitions App
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/f381290f-25ae-4e31-bb73-bb697993fef8
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/if1.jpeg
 ribbon: FireBrick
 categories:
   - Flutter_Projects
