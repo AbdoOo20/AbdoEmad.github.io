@@ -47,3 +47,7 @@ toc: true
 [URL](https://miogarage.ch/)
 
 ---
+
+## Logo
+
+<img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mio%20Garage/logo.png" alt="Logo" />
