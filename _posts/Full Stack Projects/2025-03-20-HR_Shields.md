@@ -3,7 +3,7 @@ title: HR-Shields
 classes: wide
 header:
   teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/newLogo2.png
-ribbon: DarkSlateBlue
+ribbon: DarkSlateGray
 categories:
   - Full_Stack_Projects
 toc: true
