@@ -3,7 +3,7 @@ title: Sword Timer Pomodoro
 classes: wide
 header:
   teaser: https://github.com/user-attachments/assets/d913a7e1-e395-45d0-83b2-bbb13552c3b1
-ribbon: MidnightBlue
+ribbon: Crimson
 categories:
   - Flutter_Projects
 toc: true
