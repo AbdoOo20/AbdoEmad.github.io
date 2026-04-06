@@ -2,7 +2,7 @@
 title: HR-Shields Dashboard
 classes: wide
 header:
-  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/newLogo1.png
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/HR-Shields/newLogo2.png
 ribbon: DarkSlateBlue
 categories:
   - Full_Stack_Projects
