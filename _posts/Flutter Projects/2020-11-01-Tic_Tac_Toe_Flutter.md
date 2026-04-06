@@ -2,7 +2,7 @@
 title: Tic Tac Toe Game
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/ddaf8022-1666-4d92-93eb-ea9661df80ab
+  teaser: https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/Mobile/ti1.png
 ribbon: DodgerBlue
 categories:
   - Flutter_Projects
